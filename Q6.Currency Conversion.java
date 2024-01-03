@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 public class currencyconversion {
     public static void main(String[] args) {

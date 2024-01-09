@@ -8,3 +8,4 @@ public class greetings {
         System.out.print(" Hope Your Day Goes well");
     }
 }
+
